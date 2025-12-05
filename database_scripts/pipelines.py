@@ -1,5 +1,4 @@
-# pipelines.py
-from connection import db
+from database_scripts.connection import db
 
 def orders_sales_by_category_month(start_date: str, end_date: str):
     pipeline = [
