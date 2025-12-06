@@ -8,13 +8,15 @@ Proyecto académico que integra **MongoDB Atlas** con **Python/Streamlit** para 
 
 1. Crear entorno virtual (opcional):
    ```bash
-   python -m venv venv
+   python -m venv venv       # luego de clonar el repositorio ejecutar el entorno virtual
    .\venv\Scripts\activate   # Windows
    source venv/bin/activate  # macOS/Linux
     ```
 
 2. Instalar dependencias:
-   ```Instala las dependencias ejecutando: pip install -r requirements.txt```
+   ```# Ejecuta en la raiz del proyecto```
+   ```pip install -r requirements.txt```
+
 
 3. ▶️ Ejecución con:
     ```python -m streamlit run app_streamlit.py```
