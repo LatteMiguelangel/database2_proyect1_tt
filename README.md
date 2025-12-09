@@ -14,7 +14,6 @@ Proyecto académico que integra **MongoDB Atlas** con **Python/Streamlit** para 
     ```
 
 2. Instalar dependencias:
-   ```# Ejecuta en la raiz del proyecto```
    ```pip install -r requirements.txt```
 
 
